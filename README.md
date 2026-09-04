@@ -1,2 +1,2 @@
 # my-resume
-Abdulla Ashoor's Resume (CV). Designed using HTML.
+Abdulla Ashoor's Resume (CV). Developed using HTML.
